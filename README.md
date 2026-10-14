@@ -10,7 +10,7 @@
 - 🐳 I containerize applications using **Docker**
 - ☁️ **AWS Certified Solutions Architect**
 - 📈 7+ years of experience in Operations and DevOps
-- 📫 Reach me on **[LinkedIn](your-linkedin-url-here)**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/priyankaatmakuri/)**
 
 ---
 
