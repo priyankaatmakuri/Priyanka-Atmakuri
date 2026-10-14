@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka </h1>
 <h3 align="center">AWS DevOps Engineer | 7+ Years in Ops & DevOps | AWS Certified Solutions Architect</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views" />
-</p>
-
 ---
 
 ### 🚀 About Me
