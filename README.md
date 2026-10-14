@@ -1,30 +1,87 @@
-<h1 align="center">Hi 👋, I'm Priyanka </h1>
-<h3 align="center">AWS DevOps Engineer | 7+ Years in Ops & DevOps | AWS Certified Solutions Architect</h3>
+# 👋 Hi, I'm Priyanka Atmakuri
+
+<h3 align="center">AWS DevOps Engineer | Cloud Infrastructure | CI/CD Automation</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyankaatmakuri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔧 I design and automate **cloud infrastructure** using Terraform
-- 🔄 I build **CI/CD pipelines** with Jenkins for fast, reliable deployments
-- 🐳 I containerize applications using **Docker**
-- ☁️ **AWS Certified Solutions Architect**
-- 📈 7+ years of experience in Operations and DevOps
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/priyankaatmakuri/)**
+I'm an AWS DevOps Engineer focused on cloud infrastructure, automation, and reliable software delivery.
+
+- ☁️ Work with **AWS cloud services** and infrastructure management
+- 🏗️ Automate infrastructure provisioning using **Terraform**
+- 🔄 Build and maintain **CI/CD pipelines** using Jenkins
+- 🐳 Work with **Docker** for application containerization
+- 🐧 Use **Linux and Git** for system operations and version control
+- 🎯 Continuously improving my skills in cloud engineering, DevOps automation, and deployment reliability
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/priyankaatmakuri/)**
 
 ---
 
 ### 🛠️ Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
+### 💻 Featured Projects
 
-### 📫 Connect with Me
+#### ☁️ AWS Infrastructure Automation with Terraform
+- Provision and manage AWS infrastructure using Infrastructure as Code.
+- Focus on reusable configurations, maintainability, and secure infrastructure practices.
+- Document architecture, deployment steps, and resource cleanup.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyankaatmakuri/)
+#### 🔄 CI/CD Automation with Jenkins
+- Build automated pipelines for code checkout, testing, and application builds.
+- Demonstrate pipeline stages, failure handling, and deployment workflows.
+- Document pipeline configuration and execution results.
+
+#### 🐳 Dockerized Application Deployment
+- Containerize an application using Docker.
+- Demonstrate image building, configuration, and deployment.
+- Document setup instructions, health checks, and troubleshooting.
+
+> Project descriptions above are portfolio goals. Replace them with links and implementation details once each project is completed and published.
+
+---
+
+### 🎓 Certifications
+
+- **AWS Certified Solutions Architect** — add your exact certification level and current status here.
+
+---
+
+### 📚 Currently Improving
+
+- AWS cloud infrastructure and architecture
+- Terraform and Infrastructure as Code
+- Jenkins pipeline automation
+- Docker and deployment practices
+- Linux administration and troubleshooting
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyankaatmakuri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanka%20Atmakuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+I'm always interested in learning, collaborating, and building reliable cloud and DevOps solutions.
+
+---
+
+⭐ *Building, automating, and learning — one deployment at a time.*
