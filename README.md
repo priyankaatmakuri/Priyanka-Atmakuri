@@ -54,7 +54,7 @@ I'm an AWS DevOps Engineer focused on cloud infrastructure, automation, and reli
 
 ### 🎓 Certifications
 
-- **AWS Certified Solutions Architect** — add your exact certification level and current status here.
+- **AWS Certified Solutions Architect** 
 
 ---
 
