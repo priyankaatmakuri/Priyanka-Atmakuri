@@ -20,7 +20,6 @@ I'm an AWS DevOps Engineer focused on cloud infrastructure, automation, and reli
 - 🐳 Work with **Docker** for application containerization
 - 🐧 Use **Linux and Git** for system operations and version control
 - 🎯 Continuously improving my skills in cloud engineering, DevOps automation, and deployment reliability
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/priyankaatmakuri/)**
 
 ---
 
