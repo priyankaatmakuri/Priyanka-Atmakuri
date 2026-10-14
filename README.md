@@ -51,9 +51,6 @@ I'm an AWS DevOps Engineer focused on cloud infrastructure, automation, and reli
 - Demonstrate image building, configuration, and deployment.
 - Document setup instructions, health checks, and troubleshooting.
 
-> Project descriptions above are portfolio goals. Replace them with links and implementation details once each project is completed and published.
-
----
 
 ### 🎓 Certifications
 
